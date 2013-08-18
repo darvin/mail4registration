@@ -1,7 +1,7 @@
 {
   "name": "mailserver-auto-verify",
   "version": "0.0.0",
-  "description": "",
+  "description": "Mail server that accepts any inbound mail and clicks on any links in body of mail",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "license": "BSD",
   "dependencies": {
       "simplesmtp": "*",
-"mailparser":"*",
-"cheerio":"*",
-"request":"*"
+      "mailparser":"*",
+      "cheerio":"*",
+      "request":"*"
   }
 }

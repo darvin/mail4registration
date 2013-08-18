@@ -9,6 +9,9 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-      "simplesmtp": "*"
+      "simplesmtp": "*",
+"mailparser":"*",
+"cheerio":"*",
+"request":"*"
   }
 }

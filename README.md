@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/darvin/mail4registration.png?branch=master)](https://travis-ci.org/darvin/mail4registration)
+
 Mail4Registration
 ======================
 Mail server that not only accepts any incoming mail but also clicks on any links in the body of the mail. No need to even go on our website to register or to check your mail, just use *any-random-name*: __*any-random-name*@mail4registration.com__
